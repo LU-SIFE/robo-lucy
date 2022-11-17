@@ -58,7 +58,7 @@ module.exports = {
 		});
 		cron.schedule('0 1 * * *', function() {
 		client.channels.cache.get('1003510516838309978').send("GO TO BED RIGHT NOW <@1036152824595222569> FFS");
-		console.log("stay hydrated hun~");
+		console.log("sleep, dear fucking god");
 		});
 	},
 };
