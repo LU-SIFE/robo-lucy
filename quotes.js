@@ -97,5 +97,6 @@ module.exports = [
 	"So we back in the mine",
 	"awww man",
 	"creeper",
-	"lmfao"
+	"lmfao",
+	"burritos but the sides are open"
 ];
