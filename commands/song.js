@@ -36,6 +36,9 @@ module.exports = {
 			"https://open.spotify.com/track/04SUDTPu6sjn1Qvqaf5vdW?si=498d89b9f3ed467b", //microwave cat
 			"https://open.spotify.com/track/1Nn3kFFmkQVaBOzUJpD3RE?si=5e7f5f7eeec34f30", //electromagnetic girl
 			"https://open.spotify.com/track/1tbNH5xKUTBJdan8G4K5ov?si=006cef2106304b48", //tornado siren
+			"https://open.spotify.com/track/7yiOte1eSM0npbr8sEIuzs?si=1cc2134bc2e54fa1", //town inside
+			"https://open.spotify.com/track/1ODqAHQVpYD9J8RxWt0ECU?si=76a48170aa73445f", //gigglebutton
+			"https://open.spotify.com/track/2HVie6QZfnDS2HVQiGZwU6?si=dc812ff9fa504272", //starlight brigade
 		];
 
 		return interaction.reply(song_list[Math.floor(Math.random() * song_list.length)]);
