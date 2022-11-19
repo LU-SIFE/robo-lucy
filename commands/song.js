@@ -39,6 +39,10 @@ module.exports = {
 			"https://open.spotify.com/track/7yiOte1eSM0npbr8sEIuzs?si=1cc2134bc2e54fa1", //town inside
 			"https://open.spotify.com/track/1ODqAHQVpYD9J8RxWt0ECU?si=76a48170aa73445f", //gigglebutton
 			"https://open.spotify.com/track/2HVie6QZfnDS2HVQiGZwU6?si=dc812ff9fa504272", //starlight brigade
+			"https://open.spotify.com/track/4VoSYq3aTp57jgrdNswzrd?si=fdeb772068554628", //necromancin
+			"https://open.spotify.com/track/54BW4qpq5ms4bnzBgiWVOo?si=8e8ef4b747ce4943", //night running
+			"https://open.spotify.com/track/32zqrDpYvNr8BuOClDpavD?si=aaa8be4b7a164fd1", //absolute territory
+			"https://open.spotify.com/track/2e3g8go386Zn6EyIz60Ci9?si=d57780eea8394e1d", //snake eater
 		];
 
 		return interaction.reply(song_list[Math.floor(Math.random() * song_list.length)]);
