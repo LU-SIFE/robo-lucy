@@ -7,15 +7,11 @@ scan(message);
 
 function scan(msg) {
 
-	const triggerWords = ['im back', "i'm back", "I'm back", "IM BACK", "I'M BACK"];
-
-	for (i = 0; i < triggerWords.length; i++) {
-		if (msg.content.includes(triggerWords[i])) {
+		if (msg.content.toLowerCase().includes("im back") || msg.content.toLowerCase().includes("i'm back")) {
 			msg.reply("Hi back, I'm Robo-Lucy!~");
 			console.log('EXECUTED: DADJOKE');
 			return;
 		}
-	}
 
 	if (msg.content.toLowerCase().includes("im a fool") || msg.content.toLowerCase().includes("i'm a fool") ) {
 		msg.reply("I know nothing~");
@@ -29,6 +25,7 @@ function scan(msg) {
 		return;
 	}
 
+//repies to "I'm", but is really annoying
 //	const args = msg.content.trim().split(/ +/g);
 //	if((args[0].toLowerCase() == 'i\'m' || args[0].toLowerCase() == 'im')) {
 //		msg.reply(`Hi ${args.slice(1).join(' ')}, I'm Robo-Lucy!~`);
