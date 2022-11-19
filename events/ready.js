@@ -8,6 +8,10 @@ module.exports = {
 		console.log(`Done! Logged in as ${client.user.tag}~`);
 		console.log(``);
 
+		const quotes = require('../quotes.js');
+
+		let Picked = quotes[Math.floor(Math.random() * quotes.length)];
+
 		cron.schedule('0 0 * * *', function() {
 		client.channels.cache.get('1003510516838309978').send("Reminder to stay hydrated out there!~ :bubbles:");
 		console.log("stay hydrated hun~");
@@ -60,5 +64,17 @@ module.exports = {
 		client.channels.cache.get('1003510516838309978').send("GO TO BED RIGHT NOW <@1036152824595222569> FFS");
 		console.log("sleep, dear fucking god");
 		});
+
+		setInterval( () => {
+
+			let Picked = quotes[Math.floor(Math.random() * quotes.length)];
+			say_quote(Picked);
+
+		},2500000);
+
+		function say_quote(quote) {
+			client.channels.cache.get('1003510516838309978').send(quote);
+			console.log("Quote~");
+		}
 	},
 };

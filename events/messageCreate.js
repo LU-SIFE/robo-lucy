@@ -17,12 +17,24 @@ function scan(msg) {
 		}
 	}
 
-	const args = msg.content.trim().split(/ +/g);
-	if((args[0].toLowerCase() == 'i\'m' || args[0].toLowerCase() == 'im')) {
-		msg.reply(`Hi ${args.slice(1).join(' ')}, I'm Robo-Lucy!~`);
-		console.log('EXECUTED: DADJOKE');
+	if (msg.content.toLowerCase().includes("im a fool") || msg.content.toLowerCase().includes("i'm a fool") ) {
+		msg.reply("I know nothing~");
+		console.log('no knowledge?');
 		return;
 	}
+
+	if (msg.content.toLowerCase().includes("i know nothing")) {
+		msg.reply("I may sound like a silly clowwwn~");
+		console.log('silly clown');
+		return;
+	}
+
+//	const args = msg.content.trim().split(/ +/g);
+//	if((args[0].toLowerCase() == 'i\'m' || args[0].toLowerCase() == 'im')) {
+//		msg.reply(`Hi ${args.slice(1).join(' ')}, I'm Robo-Lucy!~`);
+//		console.log('EXECUTED: DADJOKE');
+//		return;
+//	}
 
 	if (msg.content.includes("the end is never")) {
 		msg.reply("The end is never the end is nev- yes, we get it lol");
