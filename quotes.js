@@ -103,4 +103,14 @@ module.exports = [
 	"burrito with the ends open",
 	"hi hai hii ^-^ hey \n heyy!!! hi HII haiiii",
 	"uuhhh can i get uuhhh",
+	"Anthrax",
+	"Horni for Lopunny rn",
+	"Cinderace is overrated tbh",
+	"dm me cable organization pics",
+	"*\*Slaps a smiley face sticker on your forehead\**",
+	"*\*Unplugs your computer monitor\**",
+	"I'm canonically and comically gay",
+	"*\*Seven Eleven door sfx\**",
+	"*\*Breaks into your house, eats all milk, leaves\**",
+
 ];

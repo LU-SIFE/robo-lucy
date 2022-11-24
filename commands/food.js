@@ -8,7 +8,7 @@ module.exports = {
     async execute(interaction, client, channels, message) {
         console.log('EXECUTED: FOOD');
         const embed = new EmbedBuilder()
-            .setTitle('Food')
+            .setTitle('Omgggg look how yummiii~ I wanna eat it up omgg gimme the tasty~')
             .setImage('https://source.unsplash.com/featured/?food');
         return interaction.reply({ embeds: [embed] });
     }
