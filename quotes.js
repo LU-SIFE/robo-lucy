@@ -112,5 +112,9 @@ module.exports = [
 	"I'm canonically and comically gay",
 	"*\*Seven Eleven door sfx\**",
 	"*\*Breaks into your house, eats all milk, leaves\**",
-
+	"cum",
+	"Zǎoshang hǎo zhōngguó xiànzài wǒ yǒu BING CHILLING 🥶🍦 wǒ hěn xǐhuān BING CHILLING 🥶🍦",
+	"i didnt fuck my cat. i didnt cum on my cat. i didnt put my dick anywhere near my cat. Ive never done anything weird with my cats. I promised myself i wasnt going to make apology videos after last years thing so im just trying to be as short and honest with this as possible. ",
+	"don’t care + didn’t ask + cry about it + who asked + stay mad + get real + L + bleed + mald seethe cope harder + dilate + incorrect + hoes mad + pound sand + basic skill issue + typo + ratio + ur dad left + you fell off + no u + the audacity + triggered + repelled + ur a minor + k. + any askers + get a life",
+	"Hey guys, did you know that in terms of human companionship, Flareon is objectively the most huggable Pokemon? While their maximum temperature is likely too much for most, they are capable of controlling it, so they can set themselves to the perfect temperature for you. Along with that, they have a lot of fluff, making them undeniably incredibly soft to touch. But that's not all, they have a very respectable special defense stat of 110, which means that they are likely very calm and resistant to emotional damage. Because of this, if you have a bad day, you can vent to it while hugging it, and it won't mind. It can make itself even more endearing with moves like Charm and Baby Doll Eyes, ensuring that you never have a prolonged bout of depression ever again.",
 ];
