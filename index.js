@@ -4,13 +4,15 @@ const path = require('node:path');
 const { Client, GatewayIntentBits, ActivityType, channels, Collection, Events } = require('discord.js');
 const { token } = require('./config.json');
 
+const quotestatus = require('./quotes.js');
+
 const client = new Client({
     presence: {
         status: 'online',
         afk: false,
         activities: [{
-            name: "The Chaos Unfold",
-            type: ActivityType.Watching,
+            name: quotestatus.length + " different quotes",
+            type: ActivityType.Listening,
         }],
     },
     intents: [
