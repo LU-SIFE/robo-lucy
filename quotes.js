@@ -66,7 +66,8 @@ module.exports = [
 	"Shork",
 	"*fucking dies*",
 	"no bobux for susie",
-	'"Damn\nlook at those feet\n-Susie 11/17/2022"',
+	'"Damn\nlook at those feet"\n-Susie 11/17/2022',
+	"69. Nice.",
 	"say amogus backwards",
 	"AMONG US?!?!?!",
 	"It's uncanny how funky it is",
@@ -127,4 +128,6 @@ module.exports = [
 	"istg if yall are just spamming /quote im shutting myself off",
 	'"IS THAT A MOTHERFUCKING RHYTHM HEAVEN REFERENCE\nIN *MY* FURRY PORN?!"',
 	"Holy shit pink crewmate from among us kinda thicc",
+	"susie get off cookie clickers",
+	"Edward Elric >> Alphonse Elric",
 ];
