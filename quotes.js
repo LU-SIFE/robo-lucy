@@ -130,4 +130,6 @@ module.exports = [
 	"Holy shit pink crewmate from among us kinda thicc",
 	"susie get off cookie clickers",
 	"Edward Elric >> Alphonse Elric",
+	"177013",
+	"nice try but names can't have sex",
 ];
