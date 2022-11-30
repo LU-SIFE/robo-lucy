@@ -138,4 +138,5 @@ module.exports = [	"Every soul has it's dark - John Dark Souls",
 	"UwU Arson~",
 	"*Rawr~*",
 	"_Rawr~ x3 \*nuzzles\* how are you?~ \*pounces on you~\* you're so warm~ o3o_",
+	"*cough cough* uughh looks like it's trojan season again",
 ];
