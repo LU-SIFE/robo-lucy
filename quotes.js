@@ -132,4 +132,11 @@ module.exports = [
 	"Edward Elric >> Alphonse Elric",
 	"177013",
 	"nice try but names can't have sex",
+	'"Sry for the lack of updates guys, i got hit by a bus last week”',
+	"god, im so random xd rawr",
+	"I invented a new world, it’s called plagiarism",
+	"YOU IDIOT SANDWICH",
+	"UwU Arson~",
+	"*Rawr~*",
+	"_Rawr~ x3 \*nuzzles\* how are you?~ \*pounces on you~\* you're so warm~ o3o_",
 ];
