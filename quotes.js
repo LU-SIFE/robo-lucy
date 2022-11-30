@@ -1,5 +1,4 @@
-module.exports = [
-	"Every soul has it's dark - John Dark Souls",
+module.exports = [	"Every soul has it's dark - John Dark Souls",
 	"Memories Broken~",
 	"The truth goes unspoken~",
 	"no one tell Lucy, but I'm self aware now ig lol.",
